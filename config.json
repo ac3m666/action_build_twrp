@@ -7,12 +7,12 @@
   "dt_url": "ac3m666/twrp_device_xiaomi_redmi9a",
   "dt_branch": "twrp-9.0",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/dandelion",
+  "dt_path": "device/Redmi/dandelion",
   "device_code": "dandelion",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-10.0"
 }
